@@ -38,7 +38,7 @@ Depois reniciar seguir com a instalacao
 cd /root
 ```
 ```bash
-git clone https://github.com/jose181190/iz_instalador.git izinginstalador
+git clone https://github.com/cleitonme/izing.instalador.git izinginstalador
 ```
 Editar dados com seus dados, com nano para salvar aperta Ctrl + x
 ```bash
@@ -137,6 +137,9 @@ Depois acesse novamente url http://seuip:9000/
 ```bash
 WHAZING
 ```
+#### Curtiu? Apoie o projeto!! Com sua doação, será possível continuar com as atualizações. Segue QR code (PIX)  
+
+[<img src="donate.jpg" height="160" width="180"/>](donate.jpg)
 
 ## Consultoria particular
 

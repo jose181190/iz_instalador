@@ -1,8 +1,8 @@
-deploy_password=AKwWM4Qu2GRppJ7
-pg_pass=AKwWM4Qu2GRppJ7
-redis_pass=AKwWM4Qu2GRppJ7
+deploy_password=AKwWM4Qu2GRppJ
+pg_pass=AKwWM4Qu2GRppJ
+redis_pass=AKwWM4Qu2GRppJ
 deploy_email=jose@gmail.com
-repositorio=https://github.com/cleitonme/izing.open.io.git
+repositorio=https://github.com/jose181190/iz_codigo.git
 nome_instancia=interacnet
 porta_postgre_intancia=5432
 frontend_url=apps.interacnet.com
